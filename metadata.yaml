@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '37260'
     url: http://www.gutenberg.org/2009/agents/37260
     wikipedia: https://en.wikipedia.org/wiki/Remington_Schuyler
+covers:
+- cover_type: archival
+  image_path: 68488-h/images/cover.jpg
 creator:
   author:
     agent_name: Bower, B. M.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/275
     wikipedia: https://en.wikipedia.org/wiki/B._M._Bower
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68488#The-voice-at-Johnnywater
 gutenberg_issued: '2022-07-10'
 identifiers:
   gutenberg: '68488'
